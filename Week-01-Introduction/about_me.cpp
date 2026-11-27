@@ -1,4 +1,9 @@
+
+// ABOUT ME - C++ VERSION
+// This program asks the user 6 questions and displays a summary.
+
 #include <iostream>
+#include <string>
 using namespace std;
 
 int main() {
@@ -54,8 +59,8 @@ int main() {
     cout << "Reason: " << reason << endl;
     cout << "Expectation: " << expectation << endl;
     cout << "Programming is: " << definition << endl;
-    cout << endl;
 
+    cout << endl;
     cout << "========================================" << endl;
     cout << " Thank you for completing this!" << endl;
     cout << "========================================" << endl;
